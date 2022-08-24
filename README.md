@@ -9,7 +9,7 @@ os.system("pip install libxbydragon")
 
 # Example of a library :-
 
-from dragonxlibx import *
+from libxbydragon import *
 
 #(to plural)
 
