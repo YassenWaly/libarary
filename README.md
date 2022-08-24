@@ -11,6 +11,10 @@ os.system("pip install libxbydragon")
 
 from libxbydragon import *
 
+num1=2
+
+num2=2
+
 #(to plural)
 
 print(plural(num1 , num2))
